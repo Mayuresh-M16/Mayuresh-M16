@@ -6,7 +6,7 @@ Hi there 👋 I’m Mayuresh Mistry
 
 💞️ I’m looking to collaborate on creative coding projects, game jams, or anything that blends technology with visual storytelling.
 
-📫 How to reach me: You can connect with me on LinkedIn or email me at mayureshmistry6@gmail.com.
+📫 How to reach me: You can connect with me on LinkedIn at https://www.linkedin.com/in/mayureshmistry/ or email me at mayureshmistry6@gmail.com.
 
 😄 Pronouns: He/Him
 
