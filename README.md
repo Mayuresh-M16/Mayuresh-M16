@@ -34,15 +34,15 @@ Welcome to my GitHub profile! I'm a **VFX student** with a deep interest in prog
 
 ### [**MM_Publisher**](https://github.com/Mayuresh-M16/MM_Publisher)
 
-This project is a key step in my journey to becoming a Pipeline TD. It's a **cross-DCC publishing tool** designed to streamline asset and shot publishing workflows.
-
+As a crucial step in my journey to becoming a Pipeline TD, I developed this **publishing tool to streamline asset and shot publishing workflows.**
 **Key Features:**
 * **Automated Working Folder**
 * **Direct Multi-Format Export**
 * **Integrated Flipbook Generation**
 * **One-Click Publishing to Flow Production**
+* **Email Nofication on Publish**
 
-**Technologies Used:** Python, , [mention any specific DCC APIs if applicable, e.g., Maya Python API]
+**Technologies Used:** *Python , Houdini , Visual Studio Code , Git , Flow Production , Shotgrid_API , UI in Houdini HDA).*
 
 **Why I Built This:** My goal with `MM_Publisher` was to solve common production bottlenecks by providing artists with a reliable and efficient way to publish their work, ensuring data consistency and integrity across the pipeline. This project showcases my understanding of production workflows and my ability to develop practical tools.
 
