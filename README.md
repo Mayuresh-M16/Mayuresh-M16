@@ -47,6 +47,5 @@ As a crucial step in my journey to becoming a Pipeline TD, I developed this **pu
 
 **Why I Built This:** My goal with `MM_Publisher` was to solve common production bottlenecks by providing artists with a reliable and efficient way to publish their work, ensuring data consistency and integrity across the pipeline. This project showcases my understanding of production workflows and my ability to develop practical tools.
 
----
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
