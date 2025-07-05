@@ -5,7 +5,7 @@
 ##  A Passionate VFX Student & Aspiring Pipeline TD
 
 <a target="_blank" align="center">
-  <img align="center" top="500" height="300" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="center" top="500" height="300" width="350" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Jva2dvZ3UzM3RsM3phMTR1eWs4OHNuYjhiZThjOGN2YTl4MHc0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 </a>
 
 Welcome to my GitHub profile! I'm a **VFX student** with a deep interest in programming, constantly exploring how technology can bring visual stories to life.
