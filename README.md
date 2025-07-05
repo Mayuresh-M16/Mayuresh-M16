@@ -1,23 +1,51 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="center"> Hi there , I’m Mayuresh Mistry <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"> Hi there, I’m Mayuresh Mistry <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## I'm VFX student                                                  
+##  A Passionate VFX Student & Aspiring Pipeline TD
 
 <a target="_blank" align="center">
   <img align="center" top="500" height="300" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 👀 I’m interested in programming, constantly learning new technologies, diving into the world of VFX (visual effects), and, of course, gaming!
--  🌱 I’m currently learning Python for scripting and development, and actively exploring different APIs to    work with for various applications.
-- 💞️ I’m looking to collaborate on creative coding projects, game jams, or anything that blends technology     with visual storytelling.
-- 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/mayureshmistry/)     or [email](mayureshmistry6@gmail.com).
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: My favorite part about VFX is making the impossible look real, and I'm always up for a good   strategy game!
+Welcome to my GitHub profile! I'm a **VFX student** with a deep interest in programming, constantly exploring how technology can bring visual stories to life.
+
+---
+
+### What I'm Up To:
+
+* **👀 Interests:** I'm captivated by **programming**, always learning new technologies, diving deep into the world of **VFX (visual effects)**, and, of course, **gaming**!
+* **🌱 Currently Learning:** My focus right now is on mastering **Python for scripting and development**. I'm also actively exploring various **APIs** to integrate into diverse applications.
+* **💞️ Collaboration:** I'm eager to collaborate on **creative coding projects**, participate in **game jams**, or anything that seamlessly blends technology with visual storytelling.
+* **⚡ Fun Fact:** My favorite part about VFX is making the impossible look real, and I'm always up for a good strategy game!
+
+---
+
+### Let's Connect!
+
+* **📫 How to reach me:** You can connect with me on [**LinkedIn**](https://www.linkedin.com/in/mayureshmistry/) or shoot me an [**email**](mailto:mayureshmistry6@gmail.com).
+* **😄 Pronouns:** He/Him
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated divider">
+</div>
+
+## Featured Project: MM_Publisher
+
+### [**MM_Publisher**](https://github.com/Mayuresh-M16/MM_Publisher)
+
+This project is a key step in my journey to becoming a Pipeline TD. It's a **cross-DCC publishing tool** designed to streamline asset and shot publishing workflows.
+
+**Key Features:**
+* **Automated Working Folder**
+* **Direct Multi-Format Export**
+* **Integrated Flipbook Generation**
+* **One-Click Publishing to Flow Production**
+
+**Technologies Used:** Python, , [mention any specific DCC APIs if applicable, e.g., Maya Python API]
+
+**Why I Built This:** My goal with `MM_Publisher` was to solve common production bottlenecks by providing artists with a reliable and efficient way to publish their work, ensuring data consistency and integrity across the pipeline. This project showcases my understanding of production workflows and my ability to develop practical tools.
+
+---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!---
-Mayuresh-M16/Mayuresh-M16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
