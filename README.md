@@ -42,7 +42,7 @@ As a crucial step in my journey to becoming a Pipeline TD, I developed this **pu
 * **One-Click Publishing to Flow Production**
 * **Email Nofication on Publish**
 
-**Technologies Used:** *Python , Houdini , Visual Studio Code , Git , Flow Production , Shotgrid_API , UI in Houdini HDA).*
+**Technologies Used:** *Python , Shotgrid_API , Houdini , Visual Studio Code , Git , Flow Production  , UI in Houdini HDA).*
 
 **Why I Built This:** My goal with `MM_Publisher` was to solve common production bottlenecks by providing artists with a reliable and efficient way to publish their work, ensuring data consistency and integrity across the pipeline. This project showcases my understanding of production workflows and my ability to develop practical tools.
 
