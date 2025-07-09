@@ -14,9 +14,9 @@ Welcome to my GitHub profile! I'm a **VFX student** with a deep interest in prog
 
 ### What I'm Up To:
 
-* **👀 Interests:** I'm captivated by **programming**, always learning new technologies, diving deep into the world of **VFX (visual effects)**, and, of course, **gaming**!
-* **🌱 Currently Learning:** My focus right now is on mastering **Python for scripting and development**. I'm also actively exploring various **APIs** to integrate into diverse applications.
-* **💞️ Collaboration:** I'm eager to collaborate on **creative coding projects**, participate in **game jams**, or anything that seamlessly blends technology with visual storytelling.
+* **👀 Interests:**  I'm fascinated by **programming** and constantly learning new tech. Of course, I'm deeply into **VFX (visual effects)** and, when I'm not coding, you can usually find me **gaming**!
+* **🌱 Currently Learning:** Right now, I'm diving deep into **Python for scripting and development**. I'm also actively experimenting with various **APIs** to see how I can integrate them into different applications.
+* **💞️ Collaboration:** I'm always on the lookout for exciting **creative coding projects, game jams**, or anything that blends technology with compelling visual storytelling.
 * **⚡ Fun Fact:** My favorite part about VFX is making the impossible look real, and I'm always up for a good strategy game!
 
 ---
