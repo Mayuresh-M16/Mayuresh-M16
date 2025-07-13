@@ -8,7 +8,7 @@
   <img align="center" top="500" height="300" width="350" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Jva2dvZ3UzM3RsM3phMTR1eWs4OHNuYjhiZThjOGN2YTl4MHc0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 </a>
 
-Welcome to my GitHub profile! I'm a **VFX student** with a deep interest in programming, constantly exploring how technology can bring visual stories to life.
+Welcome to my GitHub profile! I am Mayuresh Mistry and I am an Advanced Visual Effects student at Bow Valley College in Calgary. I have a deep interest in programming and am constantly exploring how technology can bring visual stories to life.
 
 ---
 
