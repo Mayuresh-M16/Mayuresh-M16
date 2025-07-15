@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I am Mayuresh Mistry and I am an Advanced Visual E
 * **One-Click Publishing to Flow Production**
 * **Email Nofication on Publish**
 
-**Technologies Used:** *Python , Shotgrid_API , Houdini , Visual Studio Code , Git , Flow Production  , UI in Houdini HDA).*
+**Technologies Used:** *Python , Shotgrid_API , Houdini , Visual Studio Code , Git , Flow Production  , UI (Houdini HDA).*
 
 **Why I Built This:** My goal with `MM_Publisher` was to solve common production bottlenecks by providing artists with a reliable and efficient way to publish their work, ensuring data consistency and integrity across the pipeline. This project showcases my understanding of production workflows and my ability to develop practical tools.
 
