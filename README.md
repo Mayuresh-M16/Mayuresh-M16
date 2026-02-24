@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi there, I’m Mayuresh Mistry <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-##  A Passionate VFX Student & Aspiring Pipeline TD
+##  A Passionate IT Professional & VFX Graduate
 
 <a target="_blank" align="center">
   <img align="center" top="500" height="300" width="350" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Jva2dvZ3UzM3RsM3phMTR1eWs4OHNuYjhiZThjOGN2YTl4MHc0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
